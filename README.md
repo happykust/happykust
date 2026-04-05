@@ -27,7 +27,7 @@ I'm passionate about building reliable, self-hosted systems and exploring AI-dri
 #### [liteset](https://github.com/happykust/liteset)
 Apache Superset rebuilt on top of [Litestar](https://litestar.dev/) instead of Flask — exploring modern async Python ASGI for enterprise BI.
 
-#### [snx-edge-proxy](https://github.com/happykust/snx-edge-proxy)
+#### [snx-edge](https://github.com/happykust/snx-edge)
 Moves [snx-rs](https://github.com/ancwrd1/snx-rs) Check Point VPN from a local workstation to a MikroTik edge router (ARM container). Includes a Linux tray app for remote management via REST API + SSE.
 
 #### [sentry-old-jira-server](https://github.com/happykust/sentry-old-jira-server)
