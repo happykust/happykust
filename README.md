@@ -28,7 +28,7 @@ I'm passionate about building reliable, self-hosted systems and exploring AI-dri
 Apache Superset rebuilt on top of [Litestar](https://litestar.dev/) instead of Flask — exploring modern async Python ASGI for enterprise BI.
 
 #### [snx-edge](https://github.com/happykust/snx-edge)
-Moves [snx-rs](https://github.com/ancwrd1/snx-rs) Check Point VPN from a local workstation to a MikroTik edge router (ARM container). Includes a Linux tray app for remote management via REST API + SSE.
+Moves [snx-rs](https://github.com/ancwrd1/snx-rs) Check Point VPN client from a local workstation to a MikroTik edge router (ARM container). Includes a Linux tray app for remote management via REST API + SSE.
 
 #### [sentry-old-jira-server](https://github.com/happykust/sentry-old-jira-server)
 Fork of the official Sentry Jira integration that adds support for legacy Jira Server versions via username/password authentication.
@@ -42,8 +42,8 @@ Drop-in `redis-py` replacement backed by `valkey-py` — migrate from Redis to V
 
 - 🎓 B.Sc. in Full-Stack Development — RTU MIREA
 - 📜 Professional retraining — DevOps Engineering
-- 🐍 PCAP — Certified Associate in Python Programming
-- 📋 PME — Project Manager (PMBoK 7)
+- 🐍 PCAP — Certified Associate in Python Programming ([Click](https://verify.openedg.org/?id=ikDO.O39e.Gh87))
+- 📜 Professional retraining — Project Manager (PMBoK 7)
 
 ---
 
