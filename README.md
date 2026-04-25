@@ -2,9 +2,7 @@
 
 **Backend Team Lead · Python · DevOps · Infrastructure**
 
-I lead backend development at [RTK IT](https://rtkit.ru/) in Moscow, managing a team of engineers working on enterprise-grade data platform. My day-to-day spans Python development, DevOps, infrastructure, security and networking.
-
-I'm passionate about building reliable, self-hosted systems and exploring AI-driven development tooling.
+I lead backend development at [RTK IT](https://rtkit.ru/) in Moscow, managing a team of engineers working on enterprise-grade data platform.
 
 ---
 
