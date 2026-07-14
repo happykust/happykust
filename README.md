@@ -20,22 +20,6 @@ I lead backend development at [RTK IT](https://rtkit.ru/) in Moscow, managing a 
 
 ---
 
-### 📌 Featured projects
-
-#### [liteset](https://github.com/happykust/liteset)
-Apache Superset rebuilt on top of [Litestar](https://litestar.dev/) instead of Flask — exploring modern async Python ASGI for enterprise BI.
-
-#### [snx-edge](https://github.com/happykust/snx-edge)
-Moves [snx-rs](https://github.com/ancwrd1/snx-rs) Check Point VPN client from a local workstation to a MikroTik edge router (ARM container). Includes a Linux tray app for remote management via REST API + SSE.
-
-#### [sentry-old-jira-server](https://github.com/happykust/sentry-old-jira-server)
-Fork of the official Sentry Jira integration that adds support for legacy Jira Server versions via username/password authentication.
-
-#### [valkey-redis-compat](https://github.com/happykust/valkey-redis-compat)
-Drop-in `redis-py` replacement backed by `valkey-py` — migrate from Redis to Valkey without changing a single line of application code.
-
----
-
 ### 📚 Education & Certifications
 
 - 🎓 B.Sc. in Full-Stack Development — RTU MIREA
