@@ -8,7 +8,7 @@ I lead backend development at [RTK IT](https://rtkit.ru/) in Moscow, managing a 
 
 ### 🔧 What I work with
 
-**Backend:** Python, Rust, FastAPI, Litestar, SQLAlchemy, Alembic, PostgreSQL, ClickHouse
+**Backend:** Python, Rust, FastAPI, Flask, Litestar, SQLAlchemy, Alembic, PostgreSQL, ClickHouse
 
 **AI / ML:** LangChain, LangGraph, Milvus, RAG pipelines, self-hosted LLMs (OpenAI-compatible API)
 
@@ -16,7 +16,7 @@ I lead backend development at [RTK IT](https://rtkit.ru/) in Moscow, managing a 
 
 **Monitoring & Security:** Sentry, Trivy, CycloneDX, FSTEC Certification
 
-**Networking:** MikroTik, pfSense
+**Networking:** MikroTik
 
 ---
 
